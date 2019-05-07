@@ -1,0 +1,32 @@
+This is a modified verison of the card game Euchre. 
+This game operates much like Hearts in that the goal is for a pair to win at least
+three of five tricks in a hand. 
+In this version trump is declared by each player in a rotating fashion after each hand, starting with the player.
+There are no 'bowers' in this version, in their place we use a Red and a White Joker.
+The Red Joker is the highest card in the trump suit and the white, the second highest.
+
+    Play:
+
+    Play begins with you first choosing trump and then selecting a card to play. 
+    After everyone has played a card, the winner of the trick is determined and
+    they select a card to lead the next hand. 
+    Each player is partnered across the table to form a pair. 
+
+    Winning a Trick: 
+
+    In Euchre in order to win a trick you must follow the suit of the card that was
+    first lead or play a trump card. 
+    You are only able to play a trump card or discard a card when you cannot follow
+    suit. The player with the highest value card played of the lead suit or highest
+    value trump wins the trick. 
+
+    Scoring:
+
+    For every trick you win in a hand, that player earns a point. If a pair wins
+    three tricks in a hand they recieve an extra 2 points, and if they sweep the hand
+    (win all 5 tricks), an extra 3 points are awarded to that pair's total score. 
+    If a pair does not win at least three tricks in a hand they are docked a point.
+    If a pair is swept they loose an additional point. 
+
+    Winning:
+    A pair wins they game when they collectively earn 10 points.
